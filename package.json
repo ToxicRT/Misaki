@@ -39,7 +39,7 @@
     "overwatch-js": "^1.8.0",
     "pornsearch": "^2.4.2",
     "slot-machine": "^2.1.0",
-    "snekfetch": "^3.6.4"
+    "snekfetch": "^4.0.4"
   },
   "devDependencies": {
     "eslint": "^4.19.1"

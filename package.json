@@ -35,7 +35,7 @@
     "moment": "^2.22.2",
     "moment-duration-format": "^2.2.2",
     "ms": "^2.1.1",
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^2.6.1",
     "overwatch-js": "^1.8.0",
     "pornsearch": "^2.4.2",
     "slot-machine": "^2.1.0",

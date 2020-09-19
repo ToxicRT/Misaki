@@ -24,7 +24,7 @@
   "dependencies": {
     "discord.js": "github:discordjs/discord.js#85738b68849b6092b8f43a044937dc8a508b7536",
     "dotenv": "^5.0.1",
-    "enmap": "^2.7.2",
+    "enmap": "^5.8.0",
     "enmap-level": "^2.1.0",
     "fast-html-parser": "^1.0.1",
     "fortnite": "^3.0.1",
